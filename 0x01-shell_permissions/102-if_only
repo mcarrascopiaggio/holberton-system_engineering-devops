@@ -1,2 +1,2 @@
 #!/bin/bash
-if from=guillaume ; chown vincent: hello
+if from=guillaume then chown vincent: hello

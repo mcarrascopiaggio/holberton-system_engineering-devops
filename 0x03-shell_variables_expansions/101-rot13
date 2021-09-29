@@ -1,2 +1,2 @@
 #!/bin/bash
-Everyone is a proponent of strong encryption.
+echo 'fooman@example.com' | tr 'A-Za-z' 'N-ZA-Mn-za-m'

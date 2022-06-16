@@ -14,7 +14,7 @@ while [ $i -le 20 ]; do
 		  echo "$i"
 		  echo "$MESSAGE9"
 		  ;;
-		17)
+		18)
 		  echo "$MESSAGE17"
 		  echo "$i"
 		  ;;

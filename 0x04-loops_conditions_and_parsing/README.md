@@ -21,3 +21,11 @@
 - 8-for_ls - "for" - Bash script that displays content of the current directory in list format
 - 9-to_file_or_not_to_file - "if, else" - Bash script that gives you information about the school file
 - 10-fizzbuzz - Write a Bash script that displays numbers from 1 to 100
+
+## Usefull Notes
+- find dir ssh ls -la .ssh/
+- How to create public & private key: ssh-keygen
+- Is optional create a phrasekey
+- once the keys was created we have to files in the .ssh/: id_rsa (private) & id_rsa.pub (public)
+- for copy the key: ssh-copy-id and the address
+

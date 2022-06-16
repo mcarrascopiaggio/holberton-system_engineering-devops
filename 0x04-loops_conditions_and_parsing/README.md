@@ -22,7 +22,7 @@
 - 9-to_file_or_not_to_file - "if, else" - Bash script that gives you information about the school file
 - 10-fizzbuzz - Write a Bash script that displays numbers from 1 to 100
 
-## Usefull Notes kEYS
+## Usefull Notes Keys
 - find dir ssh ls -la .ssh/
 - How to create public & private key: ssh-keygen
 - Is optional create a phrasekey

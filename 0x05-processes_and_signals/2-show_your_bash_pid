@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# shellcheck disable=SC2009
+#Using your previous exercise command, write a Bash script that displays lines containing the b
+ps f aux |grep bash
